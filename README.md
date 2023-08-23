@@ -10,7 +10,10 @@ Windows On ARM Rootkit Detector is a tool used to detect SSDT Hooking on Windows
 ## Installation Instructions
 1. Download Binaries
 2. [Download Keystone Engine DLL](https://github.com/keystone-engine/keystone/releases/download/0.9.2/keystone-0.9.2-win64.zip) and copy keystone.dll to the WOARKD directory
-3. [Download Capstone.NET DLLs](https://www.nuget.org/api/v2/package/Gee.External.Capstone/2.3.0) extract .nuget with a ZIP extractor and copy runtime\win-x64\native\capstone.dll and lib\netstandard2.1\Gee.External.Capstone.dll and lib\netstandard2.1\Gee.External.Capstone.xml to the WOARKD directory
+3. [Download Capstone.NET DLLs](https://www.nuget.org/api/v2/package/Gee.External.Capstone/2.3.0) extract .nuget with a ZIP extractor and copy the following files to the WOARKD directory
+   - runtime\win-x64\native\capstone.dll
+   - lib\netstandard2.1\Gee.External.Capstone.dll
+   - lib\netstandard2.1\Gee.External.Capstone.xml 
 
 ## Contact
 You may contact [Rotem Salinas](rotem.salinas@cyberark.com) or [Amir Landau](amir.landau@cyberark.com) if you have any issues

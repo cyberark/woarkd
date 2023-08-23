@@ -16,4 +16,4 @@ Windows On ARM Rootkit Detector is a tool used to detect SSDT Hooking on Windows
    - lib\netstandard2.1\Gee.External.Capstone.xml 
 
 ## Contact
-You may contact [Rotem Salinas](rotem.salinas@cyberark.com) or [Amir Landau](amir.landau@cyberark.com) if you have any issues
+You may contact [Rotem Salinas](mailto:rotem.salinas@cyberark.com) or [Amir Landau](mailto:amir.landau@cyberark.com) if you have any issues
